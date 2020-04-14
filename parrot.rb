@@ -6,7 +6,7 @@ puts "#{bird}"
   bird
 end
 
-def parrot (no_argument = "Squawk!")
-  puts "#{no_argument}"
+def parrot (squawk= "Squawk!")
+  puts "#{squawk}"
   squawk
 end 
