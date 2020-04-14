@@ -6,8 +6,7 @@ def parrot
   "Squawk!"
 end
   
-def parrot(argument = "Squawk!" )
+def parrot(phrase, phrase = )
 puts "Squawk!"
-  "Squawk!"
 end
   
