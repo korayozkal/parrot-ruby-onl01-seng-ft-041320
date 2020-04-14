@@ -6,7 +6,7 @@ def parrot
   "Squawk!"
 end
   
-def parrot("Pretty bird!")
+def parrot(argument = "Pretty bird!")
 puts "Squawk!"
   "Squawk!"
 end
